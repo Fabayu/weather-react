@@ -1,3 +1,12 @@
+# Weatherweb App [play the video]
+
+
+
+<img src="https://user-images.githubusercontent.com/87146546/233857982-febf04c6-97b3-4d01-844b-0b9588f0af25.mp4" width="300">
+
+  
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -33,10 +42,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-
-
-![alt text](https://ibb.co/TKS608Z)
-![Live NEW JERSEY  Weather Forecast](https://ibb.co/TKS608Z)
 
 
 
@@ -75,3 +80,39 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
